@@ -141,6 +141,7 @@ Data Analysis Track | Seeding Africa Programme
 FemTech Information Technology Institute | May 2026
 
 GitHub: github.com/Kanyin-D-analyst
+
 LinkedIn: linkedin.com/in/mariam-gbadegesin
 
 ---
